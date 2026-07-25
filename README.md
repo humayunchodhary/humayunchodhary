@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=Muhammad%20Humayun%20Chodhary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Integrated%20Web%20Solutions&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/main/assets/profile_avatar.png" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/main/profile_avatar.png" width="150" height="150"/>
 
 <br/>
 
