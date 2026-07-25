@@ -18,6 +18,12 @@
 ![Followers](https://img.shields.io/github/followers/humayunchodhary?color=4F46E5&style=for-the-badge&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/humayunchodhary?color=7C3AED&style=for-the-badge&label=STARS)
 
+<br/>
+
+| 💼 Role | 🏢 Company | 📍 Location | 🎯 Focus |
+|:---:|:---:|:---:|:---:|
+| Full-Stack Developer | Softix Technologies | Karachi, Pakistan | AI-Integrated Web Apps |
+
 </div>
 
 ---
@@ -38,8 +44,7 @@ I'm a Full-Stack Developer at **Softix Technologies**, building AI-integrated we
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45"/>
 
 **Focus Areas**
 
@@ -74,7 +79,7 @@ Role-based government case management system covering complaint tracking, verifi
 | **Performance** | Automated reporting reduces manual case-tracking overhead |
 | **Security** | Role-based access control across verification, enquiry, and court modules |
 | **Impact** | Digitized end-to-end case handling for a national investigation agency |
-| **Link** | [Live App](https://nccia.real-erp.net/login) |
+| **Link** | [![Live](https://img.shields.io/badge/Live_App-View-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://nccia.real-erp.net/login) |
 
 *Softix Technologies · Apr 2026 – Present*
 
@@ -92,7 +97,7 @@ AI-powered platform helping farmers with crop management and productivity — in
 | **Scale** | Public-facing platform for farmers |
 | **Performance** | Optimized, responsive interface across devices |
 | **Impact** | Real-time crop disease detection to support faster farming decisions |
-| **Link** | [Live Demo](https://humayunchodhary.github.io/Week9/) |
+| **Link** | [![Live](https://img.shields.io/badge/Live_Demo-View-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://humayunchodhary.github.io/Week9/) |
 
 *Softix Technologies · Feb 2026 – Present*
 
@@ -110,7 +115,7 @@ Modern, responsive business website with product showcases, cross-device layouts
 | **Scale** | Business / e-commerce site |
 | **Performance** | Fast-loading, optimized pages, cross-browser compatible |
 | **Impact** | Delivered a professional storefront and brand presence |
-| **Link** | [Live Site](https://humayunchodhary.github.io/Nishat/) |
+| **Link** | [![Live](https://img.shields.io/badge/Live_Site-View-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://humayunchodhary.github.io/Nishat/) |
 
 *Softix Technologies · Apr 2026*
 
@@ -127,7 +132,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 | **Stack** | Web Development |
 | **Scale** | Client corporate site |
 | **Impact** | Professional online presence for an established textile manufacturer |
-| **Link** | [Live Site](https://www.alkareemweaving.pk/) |
+| **Link** | [![Live](https://img.shields.io/badge/Live_Site-View-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://www.alkareemweaving.pk/) |
 
 </details>
 
@@ -185,10 +190,10 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 ## 🎯 Current Focus
 
 ```yaml
-Learning: Advanced AI/ML integration in production web applications
-Building: Enterprise case-management systems & AI-powered platforms
-Exploring: Cloud deployment & DevOps practices
-Open To: Full-Stack & AI Engineering opportunities
+Learning: "🧠 Advanced AI/ML integration in production web applications"
+Building: "🏗️  Enterprise case-management systems & AI-powered platforms"
+Exploring: "☁️  Cloud deployment & DevOps practices"
+Open To: "🤝  Full-Stack & AI Engineering opportunities"
 ```
 
 ---
@@ -202,6 +207,10 @@ Open To: Full-Stack & AI Engineering opportunities
 ---
 
 <div align="center">
+
+⭐️ *If any of the work above resonates, a star on the repos goes a long way.*
+
+<br/>
 
 *"Code is the bridge between an idea and the people it can help."*
 
