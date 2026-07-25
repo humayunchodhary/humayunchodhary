@@ -195,7 +195,8 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/main/snake.yml" width="95%"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
