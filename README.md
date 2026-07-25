@@ -26,7 +26,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🧑‍💻 About Me
 
@@ -38,13 +38,22 @@ I'm a Full-Stack Developer at **Softix Technologies**, building AI-integrated we
 - ⚡ Product-engineering mindset: performance and usability first
 - 📌 Open to Full-Stack & AI Engineering opportunities
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,php,js&theme=dark" height="45"/>
+
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" height="45"/>
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=laravel,dotnet&theme=dark" height="45"/>
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 **Focus Areas**
 
@@ -52,7 +61,7 @@ I'm a Full-Stack Developer at **Softix Technologies**, building AI-integrated we
 ![Web Apps](https://img.shields.io/badge/Web%20Applications-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Development-7C3AED?style=flat-square&logo=w3c&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🤖 AI / ML Expertise
 
@@ -62,7 +71,7 @@ I'm a Full-Stack Developer at **Softix Technologies**, building AI-integrated we
 | Computer Vision — Crop Disease Detection | Applied | Built a live plant disease detection feature for a smart agriculture platform |
 | Conversational AI | Applied | Developed an intelligent chatbot providing farming guidance within the agriculture platform |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🚀 Featured Projects
 
@@ -74,7 +83,7 @@ Role-based government case management system covering complaint tracking, verifi
 
 | | |
 |---|---|
-| **Stack** | AI Integration, Web Applications |
+| **Stack** | Laravel, PHP, React, AI Integration |
 | **Scale** | Multi-department, role-based government system |
 | **Performance** | Automated reporting reduces manual case-tracking overhead |
 | **Security** | Role-based access control across verification, enquiry, and court modules |
@@ -93,7 +102,7 @@ AI-powered platform helping farmers with crop management and productivity — in
 
 | | |
 |---|---|
-| **Stack** | HTML5, CSS3, AI Integration |
+| **Stack** | Python, HTML5, CSS3, AI Integration |
 | **Scale** | Public-facing platform for farmers |
 | **Performance** | Optimized, responsive interface across devices |
 | **Impact** | Real-time crop disease detection to support faster farming decisions |
@@ -136,7 +145,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 💼 Experience
 
@@ -148,7 +157,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 - Delivered a responsive business & e-commerce website (Nishat) with product showcases and performance optimization
 - Delivered a corporate website for Al Kareem Weaving Factory, a Punjab-based textile manufacturer
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 📊 GitHub Analytics
 
@@ -161,7 +170,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🏆 GitHub Trophies
 
@@ -169,7 +178,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 <img src="https://github-profile-trophy.vercel.app/?username=humayunchodhary&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 📈 Contribution Activity
 
@@ -177,7 +186,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=humayunchodhary&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C9D1D9" width="95%"/>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🐍 Contribution Snake
 
@@ -185,7 +194,7 @@ Corporate website for a Gojra, Punjab-based textile manufacturer specializing in
 <img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🎯 Current Focus
 
@@ -196,7 +205,7 @@ Exploring: "☁️  Cloud deployment & DevOps practices"
 Open To: "🤝  Full-Stack & AI Engineering opportunities"
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 ## 🔗 Connect
 
@@ -204,7 +213,7 @@ Open To: "🤝  Full-Stack & AI Engineering opportunities"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-humayun-ch/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humayunchodhary)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:4F46E5&height=3&animation=fadeIn"/>
 
 <div align="center">
 
