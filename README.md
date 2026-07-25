@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=Muhammad%20Humayun%20Chodhary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Integrated%20Web%20Solutions&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/main/assets/profile_avatar.png" width="150" height="150"/>
+
+<br/>
+
 <a href="https://github.com/humayunchodhary">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=Building+AI-powered+Web+Applications;Full-Stack+Developer;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
 </a>
@@ -53,7 +57,7 @@ I'm a Full-Stack Developer at **Softix Technologies**, building AI-integrated we
 **Backend & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=laravel,dotnet&theme=dark" height="45"/>
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="28"/></a>
 
 **Focus Areas**
 
