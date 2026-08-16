@@ -194,7 +194,7 @@ Feb 2026 – Present | Karachi, Pakistan
 
 <!-- GitHub Stats & Streak Cards -->
 <a href="https://github.com/humayunchodhary">
-  <img src="https://github-readme-stats.vercel.app/api?username=humayunchodhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=humayunchodhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9" width="49%"/>
 </a>
 <a href="https://github.com/humayunchodhary">
   <img src="https://streak-stats.demolab.com/?user=humayunchodhary&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" width="49%"/>
@@ -204,7 +204,7 @@ Feb 2026 – Present | Karachi, Pakistan
 
 <!-- Top Languages & Activity Graph -->
 <a href="https://github.com/humayunchodhary">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunchodhary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=humayunchodhary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="49%"/>
 </a>
 <a href="https://github.com/humayunchodhary">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=humayunchodhary&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C9D1D9" width="49%"/>
