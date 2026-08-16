@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch: {}
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
-        id: snake-gif
+        id: snake-svg
         with:
           github_user_name: humayunchodhary
           outputs: |
